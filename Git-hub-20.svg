@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="127" height="60">
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="60">
   <style>
     text { font-family:Arial,Helvetica; font-weight:bold; font-size:30px; }
     .prefix{ fill:#ffffff; }
     .suffix{ fill:#000000; }
   </style>
-  <rect x="0" y="0" width="127" height="60" fill="#000000" fill-opacity="0"/>
-  <rect x="57" y="10" width="60" height="40" fill="#ff9900" rx="3" />
+  <rect x="0" y="0" width="131" height="60" fill="#000000" fill-opacity="0"/>
+  <rect x="57" y="10" width="64" height="40" fill="#ff9900" rx="3" />
   <text x="13" y="41" class="prefix">Git</text>
   <text x="60" y="41" class="suffix">Hub</text>
 </svg>
